@@ -44,9 +44,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://getbootstrap.com">
-    <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="40" style="margin-right:10px;" />
-  </a>
   <a href="https://www.cprogramming.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" style="margin-right:10px;" />
   </a>
@@ -68,9 +65,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" style="margin-right:10px;" />
-  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="margin-right:10px;" />
   </a>
@@ -83,14 +77,8 @@
   <a href="https://postman.com">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://pugjs.org">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" height="40" style="margin-right:10px;" />
-  </a>
   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" style="margin-right:10px;" />
-  </a>
-  <a href="https://reactnative.dev/">
-    <img src="https://reactnative.dev/img/header_logo.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
