@@ -1,5 +1,5 @@
 ![MasterHead](https://dheerajkriplani.github.io/MasterHead/cover.gif)
-<h1 align="center">Hi 👋, I'm Dheeraj Kriplani</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 
@@ -21,15 +21,15 @@
 
 - 💬 Ask me about **Java, Spring Boot, or how to center a div**
 
-- 📫 How to reach me **dheeraj8483@gmail.com**
+- 📫 How to reach me **gauravsharma04550@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1XXcAX21SUh6ZUWki6vWKUnUWI99CZT2H/edit?usp=sharing&ouid=112748552091444009703&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1XXcAX21SUh6ZUWki6vWKUnUWI99CZT2H/edit?usp=sharing&ouid=112748552091444009703&rtpof=true&sd=true](https://drive.google.com/file/d/1cNBzsX-pC_PM03yw2tfylhswv4RZ9OxU/view?usp=drivesdk))
 
 - ⚡ Hobbies **Guitarist 🎸, and a coffee-powered code writer ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/dheerajkriplani">
+  <a href="[https://linkedin.com/in/dheerajkriplani](https://www.linkedin.com/in/gaurav-sharma-782a74385/)">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:12px;" />
   </a>
   <a href="https://www.youtube.com/c/codehacks26">
@@ -41,7 +41,7 @@
   <a href="https://codeforces.com/profile/dheeraj_26">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" style="margin-right:12px;" />
   </a>
-  <a href="https://www.leetcode.com/dheeraj_2602">
+  <a href="[https://www.leetcode.com/dheeraj_2602](https://leetcode.com/u/gaurav_sharma45/)">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
   </a>
 </p>
