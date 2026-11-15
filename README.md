@@ -1,23 +1,54 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ec4899&height=180&section=header&text=Gaurav%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="banner" />
-A passionate Full Stack Developer & DSA enthusiast
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=MCA+Student+%40+AKGEC;Full+Stack+Developer+(React+%7C+Next.js+%7C+Node.js);300%2B+DSA+problems+solved" alt="typing" />
+<p align="center">
+  <img src="banner.png" alt="banner" width="100%" />
+</p>
 
-Total Visitors: Show Image
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav Sharma</h1>
 
-</div>
-🔭 I'm currently working on full stack projects with Next.js & Node.js
-🌱 I'm currently learning advanced DSA and system design
-🎓 Pursuing MCA at Ajay Kumar Garg Engineering College (2025 – 2027)
-👨‍💻 All of my projects are available in my Portfolio
-💬 Ask me about React, Next.js, Node.js, or DSA
-📫 How to reach me: your-email@gmail.com
-📄 Know about my experience: Resume
-⚡ Hobbies: (add your hobbies here) and a coffee-powered code writer ☕
-🔗 Connect with me
-<p align="left"> <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/gaurav_sharma45/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="YOUR_CODECHEF_OR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a> <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
-🛠 Languages and Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,postman,linux,cpp,java" /> </p>
-📊 GitHub Stats
-<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravsharma04550-debug&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsharma04550-debug&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="left"> <img src="https://streak-stats.demolab.com/?user=gauravsharma04550-debug&theme=tokyonight&hide_border=true" /> </p>
-🏆 LeetCode Stats
-<p align="left"> <img src="https://leetcard.jacoblin.cool/gaurav_sharma45?theme=dark&font=Fira%20Code&ext=heatmap" /> </p>
+<h3 align="center">A passionate FullStack developer</h3>
+
+<p align="left">
+  <b>Total Visitors:</b>
+  <img src="https://komarev.com/ghpvc/?username=gauravsharma04550-debug&label=&color=000000&style=for-the-badge" alt="visitors" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgauravsharma04550-debug&color=8A2BE2&labelColor=555555&style=flat-square" alt="repos" />
+</p>
+
+<img align="right" width="380" src="right-image.png" alt="coder illustration" />
+
+- 🔭 I'm currently working on **full stack projects with Next.js & Node.js**
+
+- 🌱 I'm currently learning **something new every day, and Googling the rest**
+
+- 👨‍💻 All of my projects are available in my [Portfolio](YOUR_PORTFOLIO_LINK)
+
+- 💬 Ask me about **React, Next.js, Node.js, DSA, or how to center a div**
+
+- 📫 How to reach me: [YOUR_EMAIL](mailto:YOUR_EMAIL)
+
+- 📄 Know about my experiences: [Resume](YOUR_RESUME_LINK)
+
+- ⚡ Hobbies: **YOUR_HOBBY**, and a coffee-powered code writer ☕
+
+<br clear="right"/>
+
+### Connect with me:
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin" width="40" height="40"/></a>
+  <a href="YOUR_YOUTUBE_URL" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" width="40" height="40"/></a>
+  <a href="YOUR_HACKERRANK_URL" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="hackerrank" width="40" height="40"/></a>
+  <a href="YOUR_CODEFORCES_OR_CODECHEF_URL" target="_blank"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="codeforces" width="40" height="40"/></a>
+  <a href="https://leetcode.com/u/gaurav_sharma45/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="leetcode" width="40" height="40"/></a>
+</p>
+
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,css,express,git,html,java,js,linux,mongodb,mysql,nodejs,postman,react,nextjs,tailwind" alt="tech stack" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=gauravsharma04550-debug&theme=default&hide_border=false" alt="streak stats" />
+</p>
