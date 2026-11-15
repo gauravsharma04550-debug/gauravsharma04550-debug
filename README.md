@@ -1,55 +1,45 @@
-![MasterHead](https://dheerajkriplani.github.io/MasterHead/cover.gif)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
+
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
-<h3 align="center">A passionate FullStack developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
+<h3 align="center">A passionate FullStack Developer</h3>
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p>
   Total Visitors:
-  <img
-    src="https://toolszu.com/tools/website-visitor-counter/tracker.php?id=a52b22a555a967da909bf8c6ffdcad711ca64ac4077df83aac68e7cfc6c0c3cf"
-    alt="Total Visitors"
-    height="30"
-    align="absmiddle">
+  <img src="https://komarev.com/ghpvc/?username=gauravsharma04550-debug&label=Visitors&color=blueviolet&style=flat"
+       alt="Total Visitors" height="30" align="absmiddle">
 </p>
-<p align="left"><img src="https://img.shields.io/badge/Total%20Repos-24-8b00ff" alt="Total Repositories" /></p>
 
-- 🔭 I'm currently working on **fixing bugs I created yesterday**
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Profile-Gaurav%20Sharma-blueviolet" alt="GitHub Profile" />
+</p>
 
-- 🌱 I'm currently learning **something new every day, and Googling the rest**
-
-- 👨‍💻 All of my projects are available in my [Portfolio](https://dheerajkriplani.github.io/Portfolio/)
-
-- 💬 Ask me about **Java, Spring Boot, or how to center a div**
-
+- 🔭 I'm currently working on **improving my development skills and building projects**
+- 🌱 I'm currently learning **Full Stack Development and Data Structures & Algorithms**
+- 👨‍💻 All my projects are available on my [GitHub Profile](https://github.com/gauravsharma04550-debug)
+- 💬 Ask me about **Java, React, JavaScript, Node.js and DSA**
 - 📫 How to reach me **gauravsharma04550@gmail.com**
-
-- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1XXcAX21SUh6ZUWki6vWKUnUWI99CZT2H/edit?usp=sharing&ouid=112748552091444009703&rtpof=true&sd=true](https://drive.google.com/file/d/1cNBzsX-pC_PM03yw2tfylhswv4RZ9OxU/view?usp=drivesdk))
-
-- ⚡ Hobbies **Guitarist 🎸, and a coffee-powered code writer ☕**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cNBzsX-pC_PM03yw2tfylhswv4RZ9OxU/view?usp=drivesdk)
+- ⚡ Hobbies **Coding, Learning New Technologies and Problem Solving**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="[https://linkedin.com/in/dheerajkriplani](https://www.linkedin.com/in/gaurav-sharma-782a74385/)">
+  <a href="https://www.linkedin.com/in/gaurav-sharma-782a74385/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:12px;" />
   </a>
-  <a href="https://www.youtube.com/c/codehacks26">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" style="margin-right:12px;" />
-  </a>
-  <a href="https://www.hackerrank.com/@dheeraj_598">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" style="margin-right:12px;" />
-  </a>
-  <a href="https://codeforces.com/profile/dheeraj_26">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" style="margin-right:12px;" />
-  </a>
-  <a href="[https://www.leetcode.com/dheeraj_2602](https://leetcode.com/u/gaurav_sharma45/)">
+
+  <a href="https://leetcode.com/u/gaurav_sharma45/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://getbootstrap.com">
-    <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="40" style="margin-right:10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://www.cprogramming.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" style="margin-right:10px;" />
@@ -58,10 +48,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://expressjs.com">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VAehvEPyaQyT3ADMdOLbI5k65aEJKyWkiA&s" height="40" style="margin-right:10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="margin-right:10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://www.w3.org/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" style="margin-right:10px;" />
@@ -85,12 +75,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://postman.com">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin-right:10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://pugjs.org">
     <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://reactjs.org/">
+  <a href="https://react.dev/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://reactnative.dev/">
@@ -101,8 +91,14 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajkriplani&show_icons=true&locale=en&layout=compact" alt="dheerajkriplani" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsharma04550-debug&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gaurav Sharma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajkriplani&show_icons=true&locale=en" alt="dheerajkriplani" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsharma04550-debug&show_icons=true&locale=en&theme=tokyonight" alt="Gaurav Sharma" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajkriplani&" alt="dheerajkriplani" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsharma04550-debug&theme=tokyonight" alt="Gaurav Sharma" />
+</p>
